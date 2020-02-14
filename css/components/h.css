@@ -1,0 +1,28 @@
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: #008000;
+}
+
+h4 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: #696969;
+
+}
+
+h5 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: #00CED1;
+}
+h6 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: ##191970;
+}
+
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}

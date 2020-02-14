@@ -1,0 +1,25 @@
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/form.css");
+@import url("components/h.css");
+body {
+  font-size: 18px;
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black ;
+  color: white;
+  text-align: center;
+  font-size: 13px;
+  opacity: 0.7;
+}
